@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T02:07:21.678Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="38TNHHv1aGiNlBWJjkoe" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T02:12:31.143Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LfnRTStkDnw7HbpWOq3a" version="20.5.3" type="github">
   <diagram id="FYja9yd5gckczYRw5qLz" name="Trang-1">
     <mxGraphModel dx="2891" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="RG4IrvUZ5yIqPX1qwGFt-347" value="Products" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="524" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RG4IrvUZ5yIqPX1qwGFt-348" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RG4IrvUZ5yIqPX1qwGFt-348" value="Order_details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RG4IrvUZ5yIqPX1qwGFt-349" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
